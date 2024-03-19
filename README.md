@@ -1,8 +1,3 @@
-AI Project
-Minesweeper
-Ishaan Bhartiya, Naman Sharma, Rishik Arya
-2110110246, 2110110343, 2110110975
-
 This zip contains 2 python files and the report. It also contains a screenshot of the working GUI.
 MS_GUI.py is the final code, complete with a working GUI.
 Minesweeper.py is useful for average performance evaluation.
